@@ -2,26 +2,33 @@
     "games": [
         {"title": "Chip's Challenge",
         "year": "1989",
-        "platform": {
+        "platform": [{
             "launch year": "1989",
             "name": "Atari Lynx"
-            }
+            }]
         },
         
         {"title": "Chip's Challenge 2",
         "year": "2015",
-        "platform": {
+        "platform": [{
             "launch year": "2003",
             "name": "Steam"
-            }
+            }]
         },
         
         {"title": "Night in the Woods",
         "year": "2017",
-        "platform": {
+        "platform": [{
             "launch year": "2003",
             "name": "Steam"
+            },
+			{
+            "launch year": "2017",
+            "name": "Switch"
             }
+			
+			
+			]
         }
     
     
